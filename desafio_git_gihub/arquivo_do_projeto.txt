@@ -1,0 +1,2 @@
+este é o primeiro arquivo do desafio de git da DIO (Digital Inovation One)
+espero ter atendido a solicitação 
